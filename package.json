@@ -1,6 +1,6 @@
 {
   "name": "@_alexalbu/kraftie-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Kraftie Components Library",
   "main": "index.js",
   "scripts": {
