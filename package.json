@@ -1,0 +1,28 @@
+{
+  "name": "@_alexalbu/kraftie-components",
+  "version": "1.0.0",
+  "description": "Kraftie Components Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kraftie-co/components-library.git"
+  },
+  "keywords": [
+    "Kraftie",
+    "Components",
+    "Library",
+    "Front-End",
+    "frontend",
+    "javascript",
+    "js"
+  ],
+  "author": "Alex Albu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kraftie-co/components-library/issues"
+  },
+  "homepage": "https://github.com/kraftie-co/components-library#readme"
+}
