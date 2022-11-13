@@ -17,3 +17,16 @@ body {
 .login:hover {
     color: #9EE6FA;
 }
+
+.button {
+    width: 10vh;
+    height: 10vh;
+    border: none;
+    border-radius: 50%;
+    background-color: #ebfafe;
+    box-shadow: 5px 5px #cccccc;
+}
+
+.title {
+    color: #034c65;
+}
